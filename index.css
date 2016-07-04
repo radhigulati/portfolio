@@ -1,0 +1,59 @@
+.block{
+  background-color: black;
+  opacity: .6;
+  padding: 10px;
+  width: 50%;
+  margin-right: auto;
+  margin-left:auto;
+  border-radius: 4px;
+}
+
+.nav-pills{
+  opacity: .8;
+  font-size: 1.7em;
+  background-color: Black;
+  margin-bottom: 10%;
+}
+
+body{
+  font-family: "Lobster";
+  background-color:white;
+  color: white;
+}
+
+h1{
+  padding: 0;
+  margin-top: 0px;
+  font-size: 5.0em;
+}
+
+.btn-default{
+  background-color:black;
+  border-color: black;
+  color: white;
+  font-size: 1.7em;
+}
+
+.pageOne{
+background:url("https://images.unsplash.com/photo-1430760903787-4d91bbf15384?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=de43e34bc7e1f68795ecefced65144ff");
+  background-size:cover;
+  height: 800px;
+}
+/*
+.pageTwo{
+  background:url("https://images.unsplash.com/1/macbook-air-all-faded-and-stuff.jpg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=380affd09cabda13b364ce5fda0d7cbb");
+  background-size: cover;
+  height: 800px;
+  padding-top: 5%;
+}
+
+p{
+  font-size: 2.2em;
+}
+
+.me{
+  height: 400px;
+  margin-right: auto;
+  margin-left: auto;
+}
+*/
